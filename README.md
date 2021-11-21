@@ -24,8 +24,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![alt text](https://github.com/KinanSharif/movie_battle/blob/master/movie%20battle.png)
 
 This mini App is called 'Movie Battle', the idea here is to search for a movie on the left handside of the screen and a different one on the other.
 So the user is going to type in a title, then we show the movie info; The same goes on the other twin input.
