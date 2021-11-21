@@ -21,6 +21,12 @@ const fetchData = async searchTerm => {
         <img src="${imgSrc}" />
         ${movie.Title}
       `
+      },
+      onOptionSelect(movie){
+          onMovieSelect(movie)
+      },
+      inputValue(movie){
+          return movie.Title;
       }
   });
   
